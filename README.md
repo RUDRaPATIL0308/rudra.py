@@ -69,3 +69,4 @@ The app uses modern web development practices:
 6. Error handling
 7. Loading states
 8. Animations and transitions
+
